@@ -13,6 +13,6 @@ notes:
 -created a file using `cat` in git bash and wrote in it using `touch fileName`(for empty file), `echo "content">fileName`(for single line input in the file) and `nano fileName`(For multiline input inside the file)  
 -JUST pushed a commit from vscode to this by using `git push` 
 
-
+-Jatingehlot05 used Fork to try contributing and create pull request to collaborate w 5udixAdmin
 
 
